@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 8bb7598878853c24aa70a1b1419dadc1
+timeCreated: 1507414134
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: chest
+    100002: Cube
+    100004: Empty
+    100006: f_index_01_L
+    100008: f_index_01_R
+    100010: f_index_02_L
+    100012: f_index_02_R
+    100014: f_index_03_L
+    100016: f_index_03_R
+    100018: f_middle_01_L
+    100020: f_middle_01_R
+    100022: f_middle_02_L
+    100024: f_middle_02_R
+    100026: f_middle_03_L
+    100028: f_middle_03_R
+    100030: f_pinky_01_L
+    100032: f_pinky_01_R
+    100034: f_pinky_02_L
+    100036: f_pinky_02_R
+    100038: f_pinky_03_L
+    100040: f_pinky_03_R
+    100042: f_ring_01_L
+    100044: f_ring_01_R
+    100046: f_ring_02_L
+    100048: f_ring_02_R
+    100050: f_ring_03_L
+    100052: f_ring_03_R
+    100054: foot_L
+    100056: foot_R
+    100058: forearm_L
+    100060: forearm_R
+    100062: hand_L
+    100064: hand_R
+    100066: head
+    100068: heel_L
+    100070: heel_R
+    100072: hips
+    100074: metarig
+    100076: neck
+    100078: palm_01_L
+    100080: palm_01_R
+    100082: palm_02_L
+    100084: palm_02_R
+    100086: palm_03_L
+    100088: palm_03_R
+    100090: palm_04_L
+    100092: palm_04_R
+    100094: Plane
+    100096: Ranger_001
+    100098: //RootNode
+    100100: shin_L
+    100102: shin_R
+    100104: shoulder_L
+    100106: shoulder_L_002
+    100108: shoulder_L_003
+    100110: shoulder_L_004
+    100112: shoulder_L_005
+    100114: shoulder_L_006
+    100116: shoulder_L_007
+    100118: shoulder_L_008
+    100120: shoulder_L_009
+    100122: shoulder_L_010
+    100124: shoulder_L_011
+    100126: shoulder_L_012
+    100128: shoulder_L_013
+    100130: shoulder_R
+    100132: spine
+    100134: sword
+    100136: thigh_L
+    100138: thigh_R
+    100140: thumb_01_L
+    100142: thumb_01_R
+    100144: thumb_02_L
+    100146: thumb_02_R
+    100148: thumb_03_L
+    100150: thumb_03_R
+    100152: toe_L
+    100154: toe_R
+    100156: upper_arm_L
+    100158: upper_arm_R
+    400000: chest
+    400002: Cube
+    400004: Empty
+    400006: f_index_01_L
+    400008: f_index_01_R
+    400010: f_index_02_L
+    400012: f_index_02_R
+    400014: f_index_03_L
+    400016: f_index_03_R
+    400018: f_middle_01_L
+    400020: f_middle_01_R
+    400022: f_middle_02_L
+    400024: f_middle_02_R
+    400026: f_middle_03_L
+    400028: f_middle_03_R
+    400030: f_pinky_01_L
+    400032: f_pinky_01_R
+    400034: f_pinky_02_L
+    400036: f_pinky_02_R
+    400038: f_pinky_03_L
+    400040: f_pinky_03_R
+    400042: f_ring_01_L
+    400044: f_ring_01_R
+    400046: f_ring_02_L
+    400048: f_ring_02_R
+    400050: f_ring_03_L
+    400052: f_ring_03_R
+    400054: foot_L
+    400056: foot_R
+    400058: forearm_L
+    400060: forearm_R
+    400062: hand_L
+    400064: hand_R
+    400066: head
+    400068: heel_L
+    400070: heel_R
+    400072: hips
+    400074: metarig
+    400076: neck
+    400078: palm_01_L
+    400080: palm_01_R
+    400082: palm_02_L
+    400084: palm_02_R
+    400086: palm_03_L
+    400088: palm_03_R
+    400090: palm_04_L
+    400092: palm_04_R
+    400094: Plane
+    400096: Ranger_001
+    400098: //RootNode
+    400100: shin_L
+    400102: shin_R
+    400104: shoulder_L
+    400106: shoulder_L_002
+    400108: shoulder_L_003
+    400110: shoulder_L_004
+    400112: shoulder_L_005
+    400114: shoulder_L_006
+    400116: shoulder_L_007
+    400118: shoulder_L_008
+    400120: shoulder_L_009
+    400122: shoulder_L_010
+    400124: shoulder_L_011
+    400126: shoulder_L_012
+    400128: shoulder_L_013
+    400130: shoulder_R
+    400132: spine
+    400134: sword
+    400136: thigh_L
+    400138: thigh_R
+    400140: thumb_01_L
+    400142: thumb_01_R
+    400144: thumb_02_L
+    400146: thumb_02_R
+    400148: thumb_03_L
+    400150: thumb_03_R
+    400152: toe_L
+    400154: toe_R
+    400156: upper_arm_L
+    400158: upper_arm_R
+    2300000: Cube
+    2300002: Plane
+    3300000: Cube
+    3300002: Plane
+    4300000: Plane
+    4300002: Cube
+    4300004: sword
+    4300006: Ranger_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Ranger_001
+    13700002: sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
